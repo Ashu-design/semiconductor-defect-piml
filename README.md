@@ -1,4 +1,4 @@
-# Semiconductor Defect Level Prediction
+# Physics-Informed Machine Learning for Accurate and Physically Valid Prediction of Semiconductor Defect Levels
 
 This repository contains a Jupyter Notebook and related files for predicting defect levels in semiconductors using physics-informed machine learning techniques.
 
