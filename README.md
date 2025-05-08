@@ -3,7 +3,7 @@
 This repository contains a Jupyter Notebook and related files for predicting defect levels in semiconductors using physics-informed machine learning techniques.
 
 ## Author
-Ashutosh Tiwari1, Widodo2, Dyah Ika Krisnawati3, Tsung-Rong Kuo1,4,5,* 
+Ashutosh Tiwari^1, Widodo^2, Dyah Ika Krisnawati^3, Tsung-Rong Kuo^1,4,5,* 
 
 1 International Ph.D. Program in Biomedical Engineering, College of Biomedical Engineering, Taipei Medical University, Taipei 11031, Taiwan
 
