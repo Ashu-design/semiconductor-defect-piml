@@ -941,8 +941,8 @@ bandgap_test = X_test_unscaled['host bandgap_[eV]'].values
 violations = np.sum((y_pred_optimized < 0) | (y_pred_optimized > bandgap_test))
 violation_percentage = (violations / len(y_pred_optimized)) * 100
 
-print(f"\n⚡ Physics Violations in Test Set: {violations} out of {len(y_pred_optimized)}")
-print(f"⚡ Violation Rate: {violation_percentage:.2f}%")
+print(f"\n Physics Violations in Test Set: {violations} out of {len(y_pred_optimized)}")
+print(f" Violation Rate: {violation_percentage:.2f}%")
 
 
 # -----------------------------------
@@ -1109,8 +1109,8 @@ bandgap_test = X_test_unscaled['host bandgap_[eV]'].values
 violations = np.sum((y_pred_optimized < 0) | (y_pred_optimized > bandgap_test))
 violation_percentage = (violations / len(y_pred_optimized)) * 100
 
-print(f"\n⚡ Physics Violations in Test Set: {violations} out of {len(y_pred_optimized)}")
-print(f"⚡ Violation Rate: {violation_percentage:.2f}%")
+print(f"\n Physics Violations in Test Set: {violations} out of {len(y_pred_optimized)}")
+print(f" Violation Rate: {violation_percentage:.2f}%")
 
 
 # -----------------------------------
@@ -1270,5 +1270,5 @@ plt.show()
 violations = np.sum((y_pred_scaled < 0) | (y_pred_scaled > bandgap_test))
 violation_percentage = (violations / len(y_pred_scaled)) * 100
 
-print(f"\n⚡ Physics Violations in Test Set: {violations} out of {len(y_pred_scaled)}")
-print(f"⚡ Violation Rate: {violation_percentage:.2f})
+print(f"\n Physics Violations in Test Set: {violations} out of {len(y_pred_scaled)}")
+print(f" Violation Rate: {violation_percentage:.2f})
