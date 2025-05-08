@@ -20,6 +20,8 @@ Ashutosh Tiwari1, Widodo2, Dyah Ika Krisnawati3, Tsung-Rong Kuo1,4,5,*
 - `notebooks/semiconductor.ipynb`: Main notebook demonstrating data processing, modeling, and SHAP-based interpretability.
 - `src/`: Folder for modular Python code (will be updated as needed)
 - `requirements.txt`: Python dependencies
+![image](https://github.com/user-attachments/assets/d99529db-254a-4352-aab9-757614600d43)
+
 
 ## How to Run
 1. Install dependencies from `requirements.txt`.
